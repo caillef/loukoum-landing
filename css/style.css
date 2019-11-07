@@ -7,7 +7,6 @@ button {
   color: #00d2b5;
   font-size: 4rem;
   text-align: center;
-  text-transform: uppercase;
   padding: 3rem 0;
 }
 @media (max-width: 767px) {
@@ -35,7 +34,7 @@ button {
   padding: 0;
 }
 #faq .accordion .card .card-header button {
-  background: #00b77d url('http://icons.iconarchive.com/icons/icons8/ios7/512/User-Interface-Minus-icon.png') no-repeat 98.5% center / 30px;
+  background: #00B77D url('https://www.iconsdb.com/icons/preview/white/minus-xxl.png') no-repeat 98% center / 18px;
   color: #FFFFFF;
   font-size: 1.5em;
   width: 100%;
@@ -50,7 +49,7 @@ button {
   outline: none;
 }
 #faq .accordion .card .card-header button.collapsed {
-  background: #303030 url('https://image.flaticon.com/icons/png/128/61/61112.png') no-repeat 98% center / 18px 18px;
+  background: #303030 url('https://www.iconsdb.com/icons/preview/white/plus-xxl.png') no-repeat 98% center / 18px 18px;
   color: #fff;
 }
 #faq .accordion .card .card-body {
@@ -322,7 +321,7 @@ h1, h2, h3, h4, h5,
   .ul-check.white li:before {
     color: #fff; }
   .ul-check.success li:before {
-    color: #8bc34a; }
+    color: #00B77D; }
   .ul-check.primary li:before {
     color: #00d2b5; }
 
