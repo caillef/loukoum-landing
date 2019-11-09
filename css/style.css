@@ -1901,13 +1901,13 @@ h1, h2, h3, h4, h5,
 
 @media screen and (min-width: 980px) /* Desktop */ {
   .main-image {
-    width: 50vw;
+    width: 40vw;
   }
 }
 
 @media screen  and (max-width: 979px) /* Tablet */ {
   .main-image {
-    width: 70vw;
+    width: 60vw;
   }
 }
 
