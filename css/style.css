@@ -1908,11 +1908,15 @@ h1, h2, h3, h4, h5,
 @media screen  and (max-width: 979px) /* Tablet */ {
   .main-image {
     width: 60vw;
+    margin: auto;
+    display: block;
+    margin-bottom: 5vw;
   }
 }
 
 @media screen and (max-width: 500px) /* Mobile */ {
   .main-image {
+    margin-top: 20vw;
     width: 80vw;
   }
 }
