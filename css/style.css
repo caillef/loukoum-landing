@@ -1901,7 +1901,7 @@ h1, h2, h3, h4, h5,
 
 @media screen and (min-width: 980px) /* Desktop */ {
   .main-image {
-    width: 40vw;
+    width: 50vw;
   }
 }
 
